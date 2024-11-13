@@ -11,7 +11,7 @@
     include "nav.php";
     ?>
     <div class="container mt-3">
-        <h1>Liste des produits</h1>blablabla
+    <h1>Liste des produits</h1>
     </div>
 </body>
 </html>
